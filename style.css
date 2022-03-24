@@ -1,0 +1,90 @@
+.C1
+{
+	height: 80vh;
+	width: 100%;
+	/* background-image: url("apple-touch-icon.png"); */
+	background-color: rgb(244, 252, 217);
+	background-size: cover;
+	margin: 0 0 0 0;
+	
+}
+.C2
+{
+	height: 38vh;
+	width: 100%;
+	/* background-image: url("https://www.dreamstime.com/stock-photo-business-people-handshake-office-image97226055"); */
+	background-color: rgb(197, 216, 164);
+	background-size: cover;
+	margin: 0 0 0 0;
+
+	
+}
+.C3
+{
+	height: 40vh;
+	width: 100%;
+	/* background-image: url("https://www.dreamstime.com/stock-photo-business-people-handshake-office-image97226055"); */
+	background-color: lightcyan;
+	background-size: cover;
+	margin: 0 0 0 0;
+}
+
+.Name
+{
+	height: 50vh;
+	width: 100%;
+	text-align: center;
+	position: relative;
+	/* position: relative; */
+	padding-top: 5%;
+	margin-bottom: 3.5%;
+	margin-left: 31%;
+	margin-right: 33%;
+	font-family: 'Source Code Pro', monospace;
+	width: 40%; 
+	height: 40%;
+}
+
+.Intro-para
+{
+	margin: 10% 5% 0 5%;
+	text-align: center;
+	position: relative;
+	font-family: 'Noto Sans', sans-serif;
+	
+}
+
+h2
+{
+	padding-top: 3%;
+	text-align: center;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+.container
+{
+	align-items: center;
+	padding: 5% 0 0 20%;
+}
+
+.con2
+{
+	align-items: center;
+	padding: 5% 0 0 0;
+}
+
+.emp
+{
+	text-align: left;
+	
+}
+li
+{
+	list-style: none;
+}
+
+.emp-ul
+{
+	padding-top: 5%;
+	margin-left: 20%;
+}
